@@ -3,7 +3,7 @@
 
 Project for the course Foundations of AI (2AMU10), Eindhoven University of Technology.
 
-The goal of the project is to implement an AI agent for the competitive Sudoku game, the rules of which are outlined in the *Rules.pdf* document.
+The goal of the project is to implement an AI agent for the Competitive Sudoku game, the rules of which are outlined in the *Rules.pdf* document.
 
 The project is divided into three different assignments. In the first, an initial version of the agent is proposed, based on the minimax algorithm with alpha-beta pruning and iterative deepening.
 The second assignment seeks to improve the performance of the first by making use of some heuristics to guide the search and evaluate game states.
